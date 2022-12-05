@@ -1,0 +1,28 @@
+Package: medserver
+Title: Medical Energency Services
+Version: 0.0.0.9000
+Authors@R: 
+    person("George", "Oduor", , "george.wamaya@gmail.com", role = c("cre", "aut"))
+Description: This is an n R shiny web app that can be used to visualize
+    how demand for emergency medical services is changing over different
+    time periods like, on a monthly, daily, and weekly basis.
+License: MIT + file LICENSE
+Depends: 
+    R (>= 2.10)
+Imports: 
+    config (>= 0.3.1),
+    dplyr,
+    glue,
+    golem (>= 0.3.2),
+    highcharter,
+    kableExtra,
+    leaflet,
+    lubridate,
+    semantic.dashboard,
+    shiny (>= 1.7.1),
+    shinyWidgets,
+    tibble,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2

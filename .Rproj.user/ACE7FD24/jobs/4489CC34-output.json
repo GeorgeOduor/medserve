@@ -1,0 +1,8 @@
+[1,"=> shiny::runApp()\n\n"]
+[2,"Loading required package: shiny\r\nWarning: package 'shiny' was built under R version 4.1.3\r\n"]
+[2,"Warning in loadSupport(appDir, renv = sharedEnv, globalrenv = NULL) :\r\n  Loading R/ subdirectory for Shiny application, but this directory appears to contain an R package. Sourcing files in R/ may cause unexpected behavior.\r\n"]
+[1,"\u001B[1m\u001B[22m\u001B[36mi\u001B[39m Loading \u001B[34mmedserver\u001B[39m\r\n"]
+[2,"Registered S3 method overwritten by 'quantmod':\r\n  method            from\r\n  as.zoo.data.frame zoo \r\n"]
+[2,"Warning: replacing previous import 'dplyr::group_rows' by 'kableExtra::group_rows' when loading 'medserver'\r\nWarning: replacing previous import 'semantic.dashboard::icon' by 'shiny::icon' when loading 'medserver'\r\nWarning: replacing previous import 'semantic.dashboard::column' by 'shiny::column' when loading 'medserver'\r\n"]
+[2,"\r\nListening on http://127.0.0.1:5719\r\n"]
+[1,"\nShiny application failed (exit status 1073807364).\n\n"]
