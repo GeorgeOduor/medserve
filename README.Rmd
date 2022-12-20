@@ -1,3 +1,4 @@
 
 App shows ambulance request times by location ,hospital and receibing hopitals.
 
+![ScreenShot](/featured2.jpg)
